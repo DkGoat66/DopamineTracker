@@ -1,1 +1,2 @@
 # DopamineTracker
+DopamineTracker is a Flutter application designed to help users monitor and track their daily activities and its impact on their dopamine levels. Dopamine, often referred to as the "feel-good" neurotransmitter, plays a crucial role in mood regulation and overall well-being. By logging daily activities and hobbies, users can gain insights into how these activities influence their dopamine levels over time.
