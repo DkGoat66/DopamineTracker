@@ -10,10 +10,13 @@ Users can log their daily activities, including hobbies, exercise, work, and lei
 3. Dopamine Level Tracking
 Based on the logged activities, DopamineTracker calculates and displays an estimated dopamine level. The app employs a user-friendly interface to present the data in a visually appealing manner, making it easy for users to understand their dopamine patterns.
 
-4. Data Visualization
+4. Guided Meditations
+Incorporate mindfulness into the user's daily routine with guided meditations. Scientifically proven to increase dopamine levels, these sessions are designed to reduce stress and enhance overall well-being. Choose from a variety of meditation styles to find what suits you best.
+
+5. Data Visualization
 DopamineTracker provides insightful charts and graphs that visualize the correlation between specific activities and dopamine levels. Users can gain a deeper understanding of how their lifestyle choices impact their overall well-being.
 
-5. Daily Reminders
+6. Daily Reminders
 To encourage consistent tracking, DopamineTracker includes a reminder feature. Users can set daily reminders to log their activities, ensuring that the data remains accurate and comprehensive.
 
 
